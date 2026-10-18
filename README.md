@@ -1,13 +1,11 @@
-# pet-program-38
+# Infinite Studio
 
 *An Intelligent App, or Pet, by Astra.*
 
 **Pole Puff's pet program** in [Astra's PetOS](https://github.com/findastra/astras-pet-os): pet program #38.
 Stage: **Seed**: named and approved, not built yet.
 
-> **`pet-program-38-v1.0-mini-descriptor-v1.0`:** Manages Astra's Infinite Pole.
-
-Name not assigned yet (idea: *Astra's Infinite Pole (the world she looks after), or Pole Lookout*). Until then it is `pet-program-38`.
+> **`infinite-studio-v1.0-mini-descriptor-v1.0`:** Manages Astra's Infinite Pole.
 
 ## Run it
 
