@@ -1,4 +1,4 @@
-# Rules for assistants working on pet-program-38
+# Rules for assistants working on Infinite Studio
 
 Pole Puff's pet program, part of Astra's PetOS (https://github.com/findastra/astras-pet-os). Public credit is always **Astra**.
 Read the hub's AGENTS.md, PROTECTION-RINGS.md, PET-PROGRAM-FRAMEWORK.md and `skills/farm-security` first, and build to
