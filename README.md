@@ -1,6 +1,6 @@
 # Infinite Studio
 
-*An Intelligent App, or Pet, by Astra.*
+*By Astra.*
 
 **Pole Puff's pet program** in [Astra's PetOS](https://github.com/findastra/astras-pet-os): pet program #38.
 Stage: **Seed**: named and approved, not built yet.
