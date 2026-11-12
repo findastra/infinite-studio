@@ -12,7 +12,7 @@
   "status": "seed",
   "version": "v0.1",
   "framework": "https://github.com/findastra/astras-pet-os/blob/main/PET-PROGRAM-FRAMEWORK.md",
-  "cage": {
+  "hub": {
     "topic": "pet-app",
     "home": "https://github.com/findastra/astras-pet-os"
   }
